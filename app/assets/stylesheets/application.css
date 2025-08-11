@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+  .message{
+border-left: 5px solid grey;
+margin: 15px;
+background-color: rgba(255, 166, 0, 0.155);
+width: 400px;
+}
+
+.message p {
+  margin: 5px 0 5px 15px;
+}
+
+.who{
+  font-style: italic;
+}
